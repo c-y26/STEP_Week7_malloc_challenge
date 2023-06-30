@@ -1,1 +1,2 @@
-# STEP_Week7_malloc_challenge
+# STEP Week7 - malloc challenge!
+- 提出したソースコードは, Timeが最も良い結果を示したものです
